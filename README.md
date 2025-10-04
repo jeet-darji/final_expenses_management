@@ -1,10 +1,10 @@
-# 💼 Enterprise Expense Management System
+# Expense Management System
 
-A comprehensive, production-ready expense management system with multi-step approval workflows, OCR receipt processing, multi-currency support, and advanced automation features.
+Frontend and Backend application for expense management.
 
-## 🌟 Key Features
-
-### ✅ Complete Expense Lifecycle Management
+## Structure
+- `/frontend` - React frontend application
+- `/backend` - Backend application
 - **Draft → Submit → Approve → Pay** workflow
 - Multi-step approval with complex rules
 - Auto-approval for small amounts
